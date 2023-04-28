@@ -11,7 +11,7 @@ There is a backend REST Api written in Java Spring Boot that is used to store th
 - Run `npm start` to start the application
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - The backend REST Api is expected to run on [http://localhost:8080](http://localhost:8080)
-
+- The backend project can be found here: [bookings-be](https://github.com/cristiancll/bookings-be)
 
 
 

@@ -13,7 +13,6 @@ There is a backend REST Api written in Java Spring Boot that is used to store th
 - The backend REST Api is expected to run on [http://localhost:8080](http://localhost:8080)
 - The backend project can be found here: [bookings-be](https://github.com/cristiancll/bookings-be)
 
-
-
+![bookings](https://user-images.githubusercontent.com/17942124/235056941-dc48bc7d-12ff-409a-a437-228fb4857a81.gif)
 
 
